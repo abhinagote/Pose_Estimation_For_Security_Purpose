@@ -41,7 +41,5 @@ The **Pose Estimation for Security Purpose** project enhances surveillance syste
 ## 📜 License  
 This project is open-source and available under the MIT License.  
 
-## Screenshots
-
 
 
