@@ -35,8 +35,8 @@ The **Pose Estimation for Security Purpose** project enhances surveillance syste
 ## 👥 Team Members  
 - **Abhay Nagote** - Machine Learning, Backend Development  
 - **Aryan Nikam** - Data Processing, Optimization  
-- **Shreya Bartakke** - Literature Survey, Documentation  
-- **Kunal Patil** - System Integration, Testing  
+- **Shreya Bartakke** - System Integration, Testing
+- **Kunal Patil** - Literature Survey, Documentation  
 
 ## 📜 License  
 This project is open-source and available under the MIT License.  
